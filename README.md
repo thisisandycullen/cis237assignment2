@@ -1,6 +1,6 @@
-# Assignment 1 - Review of C# Basic Concepts and Introduction to Git
+﻿# Assignment 1 - Review of C# Basic Concepts and Introduction to Git
 
-## Author
+## Author - Andy Cullen
 
 ## Description
 
@@ -24,8 +24,8 @@ It might be useful while developing this program to use a smaller sized maze, an
 
 Don't forget that you must have a base case for your recursive method or you will continue to get a stack overflow. 
 
-## Outside Resources Used
+## Outside Resources Used - Stack Overflow for an example of transposition
 
-## Known Problems, Issues, And/Or Errors in the Program
+## Known Problems, Issues, And/Or Errors in the Program - None, hopefully.
 
 
