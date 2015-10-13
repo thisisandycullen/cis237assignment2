@@ -24,7 +24,9 @@ It might be useful while developing this program to use a smaller sized maze, an
 
 Don't forget that you must have a base case for your recursive method or you will continue to get a stack overflow. 
 
-## Outside Resources Used - Stack Overflow for an example of transposition
+## Outside Resources Used -
+http://stackoverflow.com/questions/18368611/how-do-i-transpose-a-multi-dimensional-array
+Stack Overflow for an example of transposition
 
 ## Known Problems, Issues, And/Or Errors in the Program - None, hopefully.
 
